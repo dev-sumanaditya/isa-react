@@ -6,7 +6,7 @@ import TopMediaComponent from '../components/topMediaComponent';
 const AboutPage = () => {
 
     // set page title for seo
-    useDocumentTitle('About ISA');
+    useDocumentTitle('About ISA Dancing School');
 
     return(
         <div className=''>
